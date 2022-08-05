@@ -22,7 +22,7 @@
 - Pre-Computed Candidate Embeddings on GPU
 - R@K / MRR for Performance Measurement
 
-### Training Result
+### Training result
 |train/loss|eval/loss|R@1|R@2|R@5|R@10|MRR|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |0.367|1.148|0.744|0.823|0.890|0.930|0.811|
